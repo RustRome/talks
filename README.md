@@ -1,5 +1,5 @@
 # Rust Roma talks
-Repository used to propose and request talks or other activities for [Rust Rome meetup](https://www.meetup.com/Rust-Roma/).
+Repository used to propose and request talks or other activities for [Rust Rome meetup](https://community.codemotion.com/rust-roma).
 
 
 ## Proposing a talk
